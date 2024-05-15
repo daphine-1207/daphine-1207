@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daphine-1207
 - 👀 I’m interested in django
 - 🌱 I’m currently a software engineering student @Refactory
-- 💞️ I’m looking to collaborate on software engineering projects
+- 💞️ I’m looking forward to collaborate on software engineering projects
 - 📫 How to reach me  https://www.linkedin.com/in/daphinenambafu07123/ 
 
 <!---
