@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daphine-1207, a Junior Software Engineer
 - 👀 I’m interested in Web & App Development, UX/UI Design and Product Management
-🌱 I’m currently doing Web and App Development but also aspiring to get a high knowledge of UX/UI Design and Product Management. I'm looking for opportunities to major in courses to learn these two.
+-  I’m currently doing Web and App Development but also aspiring to get a high knowledge of UX/UI Design and Product Management. I'm looking for opportunities to major in courses to learn these two.
 - 💞️ I’m looking forward to collaborating on software engineering projects
 - 📫 How to reach me  https://www.linkedin.com/in/daphinenambafu07123/ and also visit my Personal Website https://daphine-1207.github.io/
 
